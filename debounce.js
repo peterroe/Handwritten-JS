@@ -1,6 +1,6 @@
 /**
-  @description: Trigger a function after the event triggers for a certain time
-*/
+ * @description: Trigger a function after the event triggers for a certain time 
+ */
 
 function debounce(fn, delay) {
     let timeout = null
