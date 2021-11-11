@@ -15,4 +15,4 @@ function instaceofBuild(child, father) {
 }
 
 //One example:
-instaceofBuild(new Function(), Object)
+instaceofBuild(new Function(), Object) //=> true
