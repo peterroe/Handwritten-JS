@@ -1,6 +1,7 @@
 ## What is the purpose?
 
 😇some Function or Lib for raise productivity
+
 ## Usage
 ```shell
 git clone https://github.com/peterroe/jslib.git
@@ -15,3 +16,4 @@ cd jslib
 * [setTimeout实现setInterval](https://github.com/peterroe/jslib/blob/master/mySetInterval.js)
 * [setInterval实现setTimeout](https://github.com/peterroe/jslib/blob/master/mySetTimeout.js)
 * [数组去重](https://github.com/peterroe/jslib/blob/master/arrayDeDuplication.js)
+* [随机字符串](https://github.com/peterroe/jslib/blob/master/randomStr.js)
