@@ -1,7 +1,11 @@
 ## What is the purpose?
 
 😇some Function or Lib for raise productivity
-
+## Usage
+```shell
+git clone https://github.com/peterroe/jslib.git
+cd jslib
+```
 ## 📖目录
 
 * [防抖函数](https://github.com/peterroe/jslib/blob/master/debounce.js)
