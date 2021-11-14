@@ -19,3 +19,4 @@ cd jslib
 * [随机字符串](https://github.com/peterroe/jslib/blob/master/randomStr.js)
 * [LRU最近最少使用](https://github.com/peterroe/jslib/blob/master/lru.js)
 * [compose实现](https://github.com/peterroe/jslib/blob/master/compose.js)
+* [柯里化实现](https://github.com/peterroe/jslib/blob/master/currying.js)
