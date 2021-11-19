@@ -23,3 +23,4 @@ cd jslib
 * [简单实现发布订阅模式](https://github.com/peterroe/jslib/blob/master/pubSub.js)
 * [计算对象深度](https://github.com/peterroe/jslib/blob/master/objDepth.js)
 * [实现(a == 1 && a == 2 && a ==3)为true](https://github.com/peterroe/jslib/blob/master/wtf.js)
+* [柯里化延迟执行](https://github.com/peterroe/jslib/blob/master/curryInfinity.js)
