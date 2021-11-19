@@ -21,3 +21,4 @@ cd jslib
 * [compose实现](https://github.com/peterroe/jslib/blob/master/compose.js)
 * [柯里化实现](https://github.com/peterroe/jslib/blob/master/currying.js)
 * [简单实现发布订阅模式](https://github.com/peterroe/jslib/blob/master/pubSub.js)
+* [计算对象深度](https://github.com/peterroe/jslib/blob/master/objDepth.js)
