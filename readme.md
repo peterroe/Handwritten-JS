@@ -20,4 +20,4 @@ cd jslib
 * [LRU最近最少使用](https://github.com/peterroe/jslib/blob/master/lru.js)
 * [compose实现](https://github.com/peterroe/jslib/blob/master/compose.js)
 * [柯里化实现](https://github.com/peterroe/jslib/blob/master/currying.js)
-* [简易深拷贝](https://github.com/peterroe/jslib/blob/master/cloneDeep.js)
+* [简单实现发布订阅模式](https://github.com/peterroe/jslib/blob/master/pubSub.js)
