@@ -35,3 +35,4 @@ cd Handwritten-JS
 * [手写fill方法](https://github.com/peterroe/Handwritten-JS/blob/master/fill.js)
 * [手写includes方法](https://github.com/peterroe/Handwritten-JS/blob/master/includes.js)
 * [手写join方法](https://github.com/peterroe/Handwritten-JS/blob/master/join.js)
+* [手写Is方法](https://github.com/peterroe/Handwritten-JS/blob/master/is.js)
