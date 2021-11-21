@@ -31,4 +31,5 @@ cd jslib
 * [手写some方法](https://github.com/peterroe/jslib/blob/master/some.js)
 * [手写reduce方法](https://github.com/peterroe/jslib/blob/master/some.js)
 * [手写findIndex方法](https://github.com/peterroe/jslib/blob/master/findIndex.js)
-* [手写findIndex方法](https://github.com/peterroe/jslib/blob/master/find.js)
+* [手写find方法](https://github.com/peterroe/jslib/blob/master/find.js)
+* [手写fill方法](https://github.com/peterroe/jslib/blob/master/fill.js)
