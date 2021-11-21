@@ -19,4 +19,4 @@ Array.prototype.myFill = function(value, start = 0, end = this.length) {
 
 //One example:
 let arr = [1, 2, 3, 4, 5]
-arr.myFill(0, 2, 4) //=> { name: 'peter', age: 20 }
+arr.myFill(0, 2, 4) //=>  [1, 2, 0, 0, 5]

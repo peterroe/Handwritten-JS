@@ -18,4 +18,4 @@ Array.prototype.myIncludes = function(value, fromIndex = 0) {
 
 //One example:
 let arr = [1, 2, 3, 4, 5]
-arr.myIncludes(3) //=> { name: 'peter', age: 20 }
+arr.myIncludes(3) //=> true
