@@ -13,7 +13,7 @@ class EventEmitter {
         if (!this.cache[name]) {
             return
         }
-        let targetIndex = this.cache[name].findInde(item => item == fun)
+        let targetIndex = this.cache[name].findIndex(item => item == fun)
         if (targetIndex != -1) {
             this.cache[name].split(targetIndex, 1)
         }
