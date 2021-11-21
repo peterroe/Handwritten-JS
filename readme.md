@@ -29,5 +29,6 @@ cd jslib
 * [手写map方法](https://github.com/peterroe/jslib/blob/master/map.js)
 * [手写every方法](https://github.com/peterroe/jslib/blob/master/every.js)
 * [手写some方法](https://github.com/peterroe/jslib/blob/master/some.js)
-* [手写reduce方法](https://github.com/peterroe/jslib/blob/master/reduce.js)
+* [手写reduce方法](https://github.com/peterroe/jslib/blob/master/some.js)
 * [手写findIndex方法](https://github.com/peterroe/jslib/blob/master/findIndex.js)
+* [手写findIndex方法](https://github.com/peterroe/jslib/blob/master/find.js)
