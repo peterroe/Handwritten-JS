@@ -1,5 +1,5 @@
 /**
- * @description: Least recently used
+ * Least recently used 最近最少使用
  */
 
 class lruMap {

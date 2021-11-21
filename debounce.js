@@ -1,12 +1,12 @@
 /**
- * @description: Trigger a function after the event triggers for a certain time 
+ * 防抖意味着：我希望稳定一段时间后再执行相应的代码
  */
 
 function debounce(fn, delay) {
     let timeout = null
     return function() {
         clearTimeout(timeout)
-        timeout = setTimeout(() => { // When triggered again, it will be timed again
+        timeout = setTimeout(() => {
             fn()
         }, delay)
     }

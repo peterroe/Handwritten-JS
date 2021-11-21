@@ -1,11 +1,11 @@
 /**
- * @description: function fires only once in a certain period of time
+ * 节流意味着：我希望在一段时间内只执行一次我的代码
  */
 
 function throttle(fn, delay) {
     let canRun = true
     return function() {
-        if (!canRun) return //intercept it if setTimeout working
+        if (!canRun) return
 
         canRun = false
         setTimeout(() => {

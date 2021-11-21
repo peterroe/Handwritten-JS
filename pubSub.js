@@ -1,3 +1,6 @@
+/**
+ * 发布订阅模式
+ */
 class EventEmitter {
     constructor() {
         this.cache = {}

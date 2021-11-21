@@ -1,5 +1,5 @@
 /**
- * @description: setTimeout realize setInterval
+ * setTimeout 实现 setInterval
  */
 
 function mySetInterval(fn, delay) {
@@ -12,7 +12,7 @@ function mySetInterval(fn, delay) {
     cycle()
 }
 
-function mySetIntervalPlus(fn, delay) { // cancel setInterval
+function mySetIntervalPlus(fn, delay) {
     let time
     const cycle = () => {
         time = setTimeout(() => {
@@ -33,5 +33,3 @@ mySetInterval(console.count, 1000)
 
 //One example:
 let { myClearInterval } = mySetIntervalPlus(console.count, 1000)
-    //wait sometime,then run:
-myClearInterval()

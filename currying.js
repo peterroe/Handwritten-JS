@@ -1,9 +1,13 @@
+/**
+ * 收集参数，直到数量相等才执行（延迟执行）
+ */
+
 function currying(fn, ...initArgs) {
     const len = fn.length
     let recordArgs = [...initArgs]
     let res = (...nextArgs) => {
         recordArgs = [...recordArgs, ...nextArgs]
-        if (recordArgs.length == len) { //if quantity of args equal to fn's length
+        if (recordArgs.length == len) {
             return fn(...recordArgs)
         } else {
             return res

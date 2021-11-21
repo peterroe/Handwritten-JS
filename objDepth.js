@@ -1,3 +1,7 @@
+/**
+ * 只考虑Array和Object的情况，不包括Map，Set等等
+ */
+
 function getObjectDepth(o) {
     let depth = 1
 

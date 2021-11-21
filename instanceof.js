@@ -1,5 +1,5 @@
 /**
- * @description: judge one object is instance of other object
+ * 根据原型链，判断一个对象是否是另一个构造函数的实例
  */
 
 function instaceofBuild(child, father) {

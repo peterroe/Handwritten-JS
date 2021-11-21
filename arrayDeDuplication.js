@@ -1,12 +1,12 @@
 /**
- * @description: remove the same element in array
+ * 移除数组中相同的元素
  */
 
 function remove(array) {
     let result = []
     let map = new Map()
     array.forEach((item) => {
-        if (!map.has(item)) { //without current element,record it
+        if (!map.has(item)) {
             result.push(item)
             map.set(item, 1)
         }

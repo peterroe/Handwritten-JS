@@ -1,3 +1,6 @@
+/**
+ * 延迟执行，一次传入所有收集的参数
+ */
 function curryInfinity(fun, ...args) {
     let tempArgs = [...args]
 
