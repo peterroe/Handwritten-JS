@@ -28,3 +28,4 @@ cd jslib
 * [手写Filter方法](https://github.com/peterroe/jslib/blob/master/filter.js)
 * [手写Map方法](https://github.com/peterroe/jslib/blob/master/map.js)
 * [手写Every方法](https://github.com/peterroe/jslib/blob/master/every.js)
+* [手写Some方法](https://github.com/peterroe/jslib/blob/master/some.js)
