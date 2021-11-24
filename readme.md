@@ -9,7 +9,7 @@ cd Handwritten-JS
 ```
 ## 📖目录
 
-* [防抖函数](https://github.com/peterroe/Handwritten-JS/blob/master/debounce.js)
+* [防抖函数](debounce.js)
 * [节流函数](https://github.com/peterroe/Handwritten-JS/blob/master/throttle.js)
 * [手写new操作符](https://github.com/peterroe/Handwritten-JS/blob/master/new.js)
 * [手写instanceof操作符](https://github.com/peterroe/Handwritten-JS/blob/master/instanceof.js)
