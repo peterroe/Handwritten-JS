@@ -3,10 +3,7 @@
  */
 Array.prototype.myIncludes = function(value, fromIndex = 0) {
     if (fromIndex < 0) {
-        fromIndex = this.length + fromIndex
-    }
-    if (fromIndex < 0) {
-        fromIndex = 0
+        fromIndex = Math.max(this.length + fromIndex, 0)
     }
     for (let i = fromIndex; i < this.length; i++) {
         if (this[i] === value || Number.isNaN(this[i]) && Number.isNaN(value)) {
