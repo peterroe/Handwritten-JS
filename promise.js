@@ -40,7 +40,7 @@ class MyPromise {
 
         while (this.rejectCallbacks.length) {
             let fn = this.rejectCallbacks.shift()
-            fn(this.value)
+            let res = fn(this.value)
         }
     }
     then(onFulfilled, onReject) {
@@ -48,6 +48,9 @@ class MyPromise {
         onFulfilled = typeof onFulfilled == 'function' ? onFulfilled : value => value
         onReject = typeof onReject == 'function' ? onReject : value => { throw (value) }
 
+        let thenPromise = new MyPromise((res, rej) => {
+
+        })
 
         if (this.state == 'fulfilled') {
             onFulfilled(this.state)
