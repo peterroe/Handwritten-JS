@@ -38,5 +38,6 @@ cd Handwritten-JS
     * [手写join方法](join.js)
     * [手写flat方法](flat.js)
     * [手写call方法](call.js)
+    * [手写bind方法](bind.js)
 * 对象
     * [手写Is方法](is.js)
