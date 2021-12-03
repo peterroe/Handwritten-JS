@@ -24,6 +24,7 @@ cd Handwritten-JS
 * [计算对象深度](objDepth.js)
 * [实现(a == 1 && a == 2 && a ==3)为true](wtf.js)
 * [柯里化延迟执行](curryInfinity.js)
+* [Js实现方法多态性](polymorphic.js)
 * 数组
     * [手写forEach方法](forEach.js)
     * [手写filter方法](filter.js)
